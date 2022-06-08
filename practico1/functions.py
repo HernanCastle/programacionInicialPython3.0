@@ -19,4 +19,3 @@ num4 = int(input("Ingrese un número: "))
 producto(num1,num2,num3,num4)
 
 
-asdasd
